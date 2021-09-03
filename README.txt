@@ -1,1 +1,1 @@
-Cool HTML thingys
+Cool HTML things and stuff
